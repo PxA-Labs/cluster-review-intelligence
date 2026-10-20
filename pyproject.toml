@@ -41,7 +41,7 @@ train = [
 ]
 # HTTP API for the Next.js frontend (web/): uvicorn cri.server:app
 api = [
-    "fastapi==0.143.0",
+    "fastapi==0.143.3",
     "uvicorn==0.54.0",
 ]
 
